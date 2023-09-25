@@ -1,0 +1,26 @@
+body{
+    background-color: #eee;
+}
+
+#gamediv{
+    width: 400px;
+    margin: auto;
+    background-color: white;
+    padding: 20px;
+}
+
+.gameText{
+    text-align: center;
+    font-size: 20px;
+}
+
+.choicebtn{
+    margin: 10px;
+    padding: 15px;
+    font-size: 18px;
+}
+
+#resultText{
+    font-size: 24px;
+    font-weight: bold;
+}
